@@ -1,4 +1,4 @@
-# market-sentiment-analytics-engine
+# Market-sentiment-analytics-engine
 
 This is a Python based project that conducts financial analysis. It integrates two common ways of acquiring financial and news data through Yahoo finance and NewsAPI.
 Utillizing this market data allows the code to output a score using pre-determined scoring criterion, this output is an aggregate score that is based off of all relevant
